@@ -1,4 +1,4 @@
-#Coding Exercise for Accenture
+#Coding Exercise for a coding interview
 
 ###By: Paola Ortega Saborío
 
